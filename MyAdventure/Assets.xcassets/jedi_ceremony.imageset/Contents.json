@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "tumblr_be4b76d75499835ee60c060a5c0e2a15_9d721d3b_1280.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "tumblr_be4b76d75499835ee60c060a5c0e2a15_9d721d3b_1280 1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "tumblr_be4b76d75499835ee60c060a5c0e2a15_9d721d3b_1280 2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
